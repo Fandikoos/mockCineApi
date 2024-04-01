@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/showtimes/errorScreenName"
+  },
+  "response": {
+    "status": 400,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "Showtimes/post/postShowtimes-errorScreenName.json"
+  }
+}

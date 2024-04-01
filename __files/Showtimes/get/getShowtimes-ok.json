@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "screenName": "Sala 10",
+    "price": 9.0,
+    "startTime": "2023-09-10T16:00:00",
+    "endTime": "2023-09-10T18:00:00",
+    "bookings": [
+      {
+        "id": 1,
+        "number": "0b1e3747-3c24-4627-aafb-fdbec47947f7",
+        "bookingDate": "2023-12-13T20:41:59.437482",
+        "row": 3,
+        "seat": 10,
+        "menu": false
+      },
+      {
+        "id": 65,
+        "number": "ed5dbf59-9680-4103-add7-34e2333d2e65",
+        "bookingDate": "2024-01-24T11:11:32.299023",
+        "row": 3,
+        "seat": 10,
+        "menu": false
+      },
+      {
+        "id": 67,
+        "number": "289c0ca1-0164-47a3-8ded-c1ee3b5393df",
+        "bookingDate": "2024-01-24T11:18:32.82165",
+        "row": 3,
+        "seat": 10,
+        "menu": false
+      }
+    ],
+    "soldOut": false
+  },
+  {
+    "id": 2,
+    "screenName": "Sala 10",
+    "price": 9.0,
+    "startTime": "2023-09-10T16:00:00",
+    "endTime": "2023-09-10T18:00:00",
+    "bookings": [
+      {
+        "id": 66,
+        "number": "cc93b678-6e61-47b8-8707-8cd684542eab",
+        "bookingDate": "2024-01-24T11:15:14.15018",
+        "row": 3,
+        "seat": 10,
+        "menu": false
+      },
+      {
+        "id": 97,
+        "number": "83c29285-e8ee-4488-beb9-7549078750f1",
+        "bookingDate": "2024-01-31T19:03:29.885567",
+        "row": 3,
+        "seat": 10,
+        "menu": false
+      }
+    ],
+    "soldOut": false
+  }
+]
