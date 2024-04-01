@@ -1,14 +1,14 @@
 {
-  "priority": 99,
+  "priority": 1,
   "request": {
-    "method": "ANY",
-    "urlPattern": ".*"
+    "method": "DELETE",
+    "url": "/booking/5"
   },
   "response": {
     "status": 404,
     "headers":{
       "Content-Type": "application/json"
     },
-    "bodyFileName": "defaultResponse.json"
+    "bodyFileName": "Bookings/get/BookingNotFound.json"
   }
 }

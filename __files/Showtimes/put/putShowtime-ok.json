@@ -1,0 +1,34 @@
+{
+  "id": 1,
+  "screenName": "Sala 1",
+  "price": 15.0,
+  "startTime": "2023-09-10T17:00:00",
+  "endTime": "2023-09-10T20:00:00",
+  "bookings": [
+    {
+      "id": 1,
+      "number": "0b1e3747-3c24-4627-aafb-fdbec47947f7",
+      "bookingDate": "2023-12-13T20:41:59.437482",
+      "row": 3,
+      "seat": 10,
+      "menu": false
+    },
+    {
+      "id": 65,
+      "number": "ed5dbf59-9680-4103-add7-34e2333d2e65",
+      "bookingDate": "2024-01-24T11:11:32.299023",
+      "row": 3,
+      "seat": 10,
+      "menu": false
+    },
+    {
+      "id": 67,
+      "number": "289c0ca1-0164-47a3-8ded-c1ee3b5393df",
+      "bookingDate": "2024-01-24T11:18:32.82165",
+      "row": 3,
+      "seat": 10,
+      "menu": false
+    }
+  ],
+  "soldOut": false
+}

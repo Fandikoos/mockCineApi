@@ -1,0 +1,29 @@
+[
+  {
+    "id": 34,
+    "username": "Sara",
+    "password": "avechucha",
+    "email": "abeylaura@gmail.com",
+    "phone": 123456777,
+    "registrationDate": "2023-12-17",
+    "bookings": [
+      {
+        "id": 66,
+        "number": "cc93b678-6e61-47b8-8707-8cd684542eab",
+        "bookingDate": "2024-01-24T11:15:14.15018",
+        "row": 3,
+        "seat": 10,
+        "menu": false
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "username": "Sara",
+    "password": "avechucha",
+    "email": "abeylaura@gmail.com",
+    "phone": 123456777,
+    "registrationDate": "2024-01-24",
+    "bookings": []
+  }
+]

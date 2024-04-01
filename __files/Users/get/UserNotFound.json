@@ -1,0 +1,6 @@
+{
+  "code": 404,
+  "errors": {
+    "name": "User not found"
+  }
+}
