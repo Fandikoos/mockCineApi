@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Puerto Venecia",
+    "capacity": 250,
+    "latitude": 9.87,
+    "longitude": 6.1,
+    "rating": 8.0,
+    "openingDate": "2023-12-13"
+  },
+  {
+  "id": 257,
+  "name": "La Torre Outlet",
+  "capacity": 250,
+  "latitude": 9.78438,
+  "longitude": 5.895498934,
+  "rating": 9.0,
+  "openingDate": "2024-01-24"
+  }
+]

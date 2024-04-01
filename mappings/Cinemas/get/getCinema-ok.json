@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/cinema/1"
+  },
+  "response": {
+    "status": 200,
+    "headers":{
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "Cinemas/get/getCinema-ok.json"
+  }
+}
