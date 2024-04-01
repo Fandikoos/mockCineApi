@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "number": "0b1e3747-3c24-4627-aafb-fdbec47947f7",
+    "bookingDate": "2023-12-13T20:41:59.437482",
+    "row": 3,
+    "seat": 10,
+    "menu": false
+  },
+  {
+    "id": 65,
+    "number": "ed5dbf59-9680-4103-add7-34e2333d2e65",
+    "bookingDate": "2024-01-24T11:11:32.299023",
+    "row": 3,
+    "seat": 10,
+    "menu": false
+  }
+]

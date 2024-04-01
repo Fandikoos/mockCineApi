@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/bookings/errorRow"
+  },
+  "response": {
+    "status": 400,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "Bookings/post/postBookings-errorRow.json"
+  }
+}
