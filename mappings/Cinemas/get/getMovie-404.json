@@ -1,14 +1,13 @@
 {
-  "priority": 99,
   "request": {
-    "method": "ANY",
-    "urlPattern": ".*"
+    "method": "GET",
+    "url": "/movie/4"
   },
   "response": {
     "status": 404,
     "headers":{
       "Content-Type": "application/json"
     },
-    "bodyFileName": "defaultResponse.json"
+    "bodyFileName": "Movies/get/MovieNotFound.json"
   }
 }

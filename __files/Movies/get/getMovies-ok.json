@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "El Señor de los Anillos",
+    "director": "Peter Jackson",
+    "genre": "Ciencia Ficción",
+    "duration": 180,
+    "releaseDate": "2006-07-05"
+  },
+  {
+    "id": 2,
+    "title": "Smile",
+    "director": "Michael Scofield",
+    "genre": "Terror",
+    "duration": 110,
+    "releaseDate": "2021-11-05"
+  }
+]

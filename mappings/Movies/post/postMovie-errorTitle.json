@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/movies/errorTitle"
+  },
+  "response": {
+    "status": 400,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "Movies/post/postMovies-errorTitle.json"
+  }
+}
